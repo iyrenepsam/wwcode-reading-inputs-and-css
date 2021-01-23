@@ -1,0 +1,15 @@
+
+.mybody{
+    background-color: bisque;
+}
+.headingstyle{
+  background-color: coral; 
+}
+h1{
+    background-color: darkgoldenrod;
+}
+#demo{
+    background-color: darkolivegreen;
+    font-size: 100px;
+    color: white;
+}
